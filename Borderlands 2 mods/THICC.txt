@@ -1,0 +1,1 @@
+set GD_Weap_AssaultRifle.Name.Prefix_Torgue.Prefix_Shroud1_MagSize PartName T H I C C 
