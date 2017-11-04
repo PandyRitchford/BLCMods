@@ -1,1 +1,14 @@
+ARs
 set GD_Weap_AssaultRifle.Name.Prefix_Torgue.Prefix_Shroud1_MagSize PartName T H I C C 
+set GD_Weap_AssaultRifle.Name.Prefix_Vladof.Prefix_Shroud1_MagSize PartName T H I C C 
+set GD_Weap_AssaultRifle.Name.Prefix_Tediore.Prefix_Shroud1_MagSize PartName T H I C C 
+set GD_Weap_AssaultRifle.Name.Prefix_Dahl.Prefix_Shroud1_MagSize PartName T H I C C 
+set GD_Weap_AssaultRifle.Name.Prefix_Jakobs.Prefix_Shroud1_MagSize PartName T H I C C 
+set GD_Weap_AssaultRifle.Name.Prefix_Bandit.Prefix_Shroud1_MagSize PartName T H I C C 
+
+SGs
+set GD_Weap_Shotgun.Name.Prefix_Torgue.Prefix_MoonClip_MagSize PartName T H I C C 
+set GD_Weap_Shotgun.Name.Prefix_Bandit.Prefix_MoonClip_MagSize PartName T H I C C 
+set GD_Weap_Shotgun.Name.Prefix_Tediore.Prefix_MoonClip_MagSize PartName T H I C C 
+set GD_Weap_Shotgun.Name.Prefix_Jakobs.Prefix_MoonClip_MagSize PartName T H I C C 
+set GD_Weap_Shotgun.Name.Prefix_Hyperion.Prefix_MoonClip_MagSize PartName T H I C C 
